@@ -12,7 +12,7 @@ Model Eğitimi ve Değerlendirme: Model, eğitim verileriyle eğitilmiş ve baş
 
 Hiperparametre Optimizasyonu: Modelin performansını artırmak için katman sayısı, düğüm sayısı, dropout oranı ve optimizasyon fonksiyonları üzerinde ince ayarlamalar yapılmıştır.
 
-Gereksinimler
+# Gereksinimler
 
     Python 3.x
     TensorFlow/Keras
@@ -20,11 +20,11 @@ Gereksinimler
     Pandas
     Matplotlib
 
-Nasıl Çalıştırılır
+# Nasıl Çalıştırılır
 
     Jupyter notebook'u çalıştırarak modeli eğitin.
     Proje çıktıları ve sonuçları notebook üzerinde görüntülenebilir.
 
-Kaggle Linki
+# Kaggle Linki
 
 Projenin Kaggle üzerindeki notebook'una [link](https://www.kaggle.com/code/enescatal/akbank-derin-renme-proje) buradan ulaşabilirsiniz.
