@@ -24,4 +24,4 @@ Nasıl Çalıştırılır
 
 Kaggle Linki
 
-Projenin Kaggle üzerindeki notebook'una buradan ulaşabilirsiniz.
+Projenin Kaggle üzerindeki notebook'una [link](https://www.kaggle.com/code/enescatal/akbank-derin-renme-proje)buradan ulaşabilirsiniz.
