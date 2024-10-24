@@ -1,7 +1,8 @@
 # Akbank Derin Öğrenme Bootcamp Projesi - Balık Türü Sınıflandırma
 
 Bu proje, Kaggle'daki büyük ölçekli bir balık veri setini kullanarak balık türlerini sınıflandırmayı amaçlamaktadır. Projede derin öğrenme teknikleri kullanılarak bir yapay sinir ağı (ANN) modeli geliştirilmiştir.
-Proje Yapısı
+
+# Proje Yapısı
 
 Veri Ön İşleme: Balık fotoğraflarından oluşan veri setinin işlenmesi, görüntülerin bir DataFrame'e dönüştürülmesi ve eğitim/veri test setlerine ayrılması.
 
@@ -21,10 +22,9 @@ Gereksinimler
 
 Nasıl Çalıştırılır
 
-    Gerekli kütüphaneleri yükleyin: pip install -r requirements.txt
     Jupyter notebook'u çalıştırarak modeli eğitin.
     Proje çıktıları ve sonuçları notebook üzerinde görüntülenebilir.
 
 Kaggle Linki
 
-Projenin Kaggle üzerindeki notebook'una [link](https://www.kaggle.com/code/enescatal/akbank-derin-renme-proje)buradan ulaşabilirsiniz.
+Projenin Kaggle üzerindeki notebook'una [link](https://www.kaggle.com/code/enescatal/akbank-derin-renme-proje) buradan ulaşabilirsiniz.
