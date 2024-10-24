@@ -27,4 +27,4 @@ Hiperparametre Optimizasyonu: Modelin performansını artırmak için katman say
 
 # Kaggle Linki
 
-Projenin Kaggle üzerindeki notebook'una [link]([https://www.kaggle.com/code/enescatal/akbank-derin-renme-proje](https://www.kaggle.com/code/enescatal/akbank-derin-renme-proje#Ad%C4%B1m-2:-Verileri-g%C3%B6rselle%C5%9Ftirme)) buradan ulaşabilirsiniz.
+Projenin Kaggle üzerindeki notebook'una [link](https://www.kaggle.com/code/enescatal/akbank-derin-renme-proje#Ad%C4%B1m-2:-Verileri-g%C3%B6rselle%C5%9Ftirme) buradan ulaşabilirsiniz.
